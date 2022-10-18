@@ -1,0 +1,137 @@
+2021.06.16 20:00:13.175 INFO  Model.MyModel - opened GUI
+2021.06.16 20:00:13.181 INFO  Model.MyModel - Playing music
+2021.06.16 20:00:13.181 INFO  Model.MyModel - Maze Generating server started listening for clients at port 5400
+2021.06.16 20:00:13.182 INFO  Model.MyModel - Solving maze server started listening for clients at port 5401
+2021.06.16 20:00:16.985 INFO  View.MyViewController - pokemon changed to Pikachu
+2021.06.16 20:00:17.028 INFO  Model.MyModel - MazeGeneratingServer generates maze{30,30} for client:/127.0.0.1 at port: 5400
+2021.06.16 20:00:17.068 INFO  View.MyViewController - New game started
+2021.06.16 20:00:23.181 DEBUG View.MyViewController - Configuration properties changed.
+2021.06.16 20:00:24.978 DEBUG Model.MyModel - Servers closed
+2021.06.16 20:00:24.978 DEBUG Model.MyModel - GUI closed
+2021.06.17 12:46:14.720 INFO  Model.MyModel - opened GUI
+2021.06.17 12:46:14.728 INFO  Model.MyModel - Playing music
+2021.06.17 12:46:14.728 INFO  Model.MyModel - Maze Generating server started listening for clients at port 5400
+2021.06.17 12:46:14.729 INFO  Model.MyModel - Solving maze server started listening for clients at port 5401
+2021.06.17 12:46:18.286 INFO  View.MyViewController - pokemon changed to Pikachu
+2021.06.17 12:46:18.314 INFO  Model.MyModel - MazeGeneratingServer generates maze{30,30} for client:/127.0.0.1 at port: 5400
+2021.06.17 12:46:18.345 INFO  View.MyViewController - New game started
+2021.06.17 12:46:23.882 DEBUG View.MyViewController - Configuration properties changed.
+2021.06.17 12:46:27.520 DEBUG View.MyViewController - Configuration properties changed.
+2021.06.17 12:46:31.581 INFO  View.MyViewController - pokemon changed to Pikachu
+2021.06.17 12:46:31.627 INFO  Model.MyModel - MazeGeneratingServer generates maze{40,40} for client:/127.0.0.1 at port: 5400
+2021.06.17 12:46:31.682 INFO  View.MyViewController - New game started
+2021.06.17 12:46:36.758 INFO  Model.MyModel - MazeSolvingServer found solution for maze{40,40} requested by client:/127.0.0.1 at port: 5401
+2021.06.17 12:46:38.924 INFO  Model.MyModel - MazeSolvingServer found solution for maze{40,40} requested by client:/127.0.0.1 at port: 5401
+2021.06.17 12:46:42.500 INFO  Model.MyModel - Stopped the music
+2021.06.17 12:46:42.853 INFO  Model.MyModel - Started music
+2021.06.17 12:46:45.760 INFO  Model.MyModel - MazeSolvingServer found solution for maze{40,40} requested by client:/127.0.0.1 at port: 5401
+2021.06.17 12:46:58.558 INFO  Model.MyModel - maze saved to C:\Users\Yafim\Downloads\myMaze.maze
+2021.06.17 12:47:08.785 INFO  View.MyViewController - pokemon changed to Pikachu
+2021.06.17 12:47:08.792 INFO  Model.MyModel - MazeGeneratingServer generates maze{5,5} for client:/127.0.0.1 at port: 5400
+2021.06.17 12:47:08.821 INFO  View.MyViewController - New game started
+2021.06.17 12:47:11.922 INFO  Model.MyModel - Player finished maze{5,5}
+2021.06.17 12:47:14.987 INFO  Model.MyModel - saved score for yuval.
+2021.06.17 12:47:21.680 INFO  View.MyViewController - pokemon changed to Pikachu
+2021.06.17 12:47:21.687 INFO  Model.MyModel - MazeGeneratingServer generates maze{6,6} for client:/127.0.0.1 at port: 5400
+2021.06.17 12:47:21.716 INFO  View.MyViewController - New game started
+2021.06.17 12:47:34.284 INFO  Model.MyModel - MazeSolvingServer found solution for maze{40,40} requested by client:/127.0.0.1 at port: 5401
+2021.06.17 12:47:35.315 INFO  Model.MyModel - maze loaded from C:\Users\Yafim\Downloads\myMaze.maze
+2021.06.17 12:47:52.635 DEBUG Model.MyModel - Servers closed
+2021.06.17 12:47:52.635 DEBUG Model.MyModel - GUI closed
+2021.06.17 13:03:35.200 INFO  Model.MyModel - opened GUI
+2021.06.17 13:03:35.205 INFO  Model.MyModel - Playing music
+2021.06.17 13:03:35.205 INFO  Model.MyModel - Maze Generating server started listening for clients at port 5400
+2021.06.17 13:03:35.205 INFO  Model.MyModel - Solving maze server started listening for clients at port 5401
+2021.06.17 13:03:36.873 INFO  Model.MyModel - Stopped the music
+2021.06.17 13:03:45.391 INFO  View.MyViewController - pokemon changed to Pikachu
+2021.06.17 13:03:45.432 INFO  Model.MyModel - MazeGeneratingServer generates maze{30,30} for client:/127.0.0.1 at port: 5400
+2021.06.17 13:03:45.483 INFO  View.MyViewController - New game started
+2021.06.17 13:03:49.678 DEBUG View.MyViewController - Configuration properties changed.
+2021.06.17 13:03:53.466 INFO  View.MyViewController - pokemon changed to Pikachu
+2021.06.17 13:03:53.473 INFO  Model.MyModel - MazeGeneratingServer generates maze{30,30} for client:/127.0.0.1 at port: 5400
+2021.06.17 13:03:53.493 INFO  View.MyViewController - New game started
+2021.06.17 13:03:55.682 DEBUG Model.MyModel - Servers closed
+2021.06.17 13:03:55.682 DEBUG Model.MyModel - GUI closed
+2021.06.17 13:18:07.950 INFO  Model.MyModel - opened GUI
+2021.06.17 13:18:07.956 INFO  Model.MyModel - Playing music
+2021.06.17 13:18:07.956 INFO  Model.MyModel - Maze Generating server started listening for clients at port 5400
+2021.06.17 13:18:07.956 INFO  Model.MyModel - Solving maze server started listening for clients at port 5401
+2021.06.17 13:18:12.070 INFO  Model.MyModel - Stopped the music
+2021.06.17 13:18:29.844 INFO  View.MyViewController - pokemon changed to Butterfree
+2021.06.17 13:18:29.845 INFO  View.MyViewController - pokemon changed to Butterfree
+2021.06.17 13:18:29.885 INFO  Model.MyModel - MazeGeneratingServer generates maze{30,30} for client:/127.0.0.1 at port: 5400
+2021.06.17 13:18:29.939 INFO  View.MyViewController - New game started
+2021.06.17 13:18:34.101 DEBUG View.MyViewController - Configuration properties changed.
+2021.06.17 13:18:40.377 INFO  View.MyViewController - pokemon changed to Butterfree
+2021.06.17 13:18:40.411 INFO  Model.MyModel - MazeGeneratingServer generates maze{30,30} for client:/127.0.0.1 at port: 5400
+2021.06.17 13:18:40.439 INFO  View.MyViewController - New game started
+2021.06.17 13:18:57.622 INFO  Model.MyModel - MazeSolvingServer found solution for maze{30,30} requested by client:/127.0.0.1 at port: 5401
+2021.06.17 13:19:01.339 INFO  Model.MyModel - MazeSolvingServer found solution for maze{30,30} requested by client:/127.0.0.1 at port: 5401
+2021.06.17 13:19:02.076 INFO  Model.MyModel - Started music
+2021.06.17 13:19:02.927 INFO  Model.MyModel - Stopped the music
+2021.06.17 13:19:03.625 INFO  Model.MyModel - Started music
+2021.06.17 13:19:04.015 INFO  Model.MyModel - Stopped the music
+2021.06.17 13:19:13.960 INFO  View.MyViewController - About window opened
+2021.06.17 13:19:20.170 INFO  View.MyViewController - Controllers window opened
+2021.06.17 13:19:29.712 INFO  View.MyViewController - Controllers window opened
+2021.06.17 13:19:35.649 INFO  View.MyViewController - pokemon changed to Pikachu
+2021.06.17 13:19:35.666 INFO  View.MyViewController - pokemon changed to Pikachu
+2021.06.17 13:19:35.672 INFO  Model.MyModel - MazeGeneratingServer generates maze{5,5} for client:/127.0.0.1 at port: 5400
+2021.06.17 13:19:35.696 INFO  View.MyViewController - New game started
+2021.06.17 13:19:41.749 INFO  Model.MyModel - Player finished maze{5,5}
+2021.06.17 13:19:48.891 INFO  Model.MyModel - saved score for Lidor.
+2021.06.17 13:19:59.322 INFO  View.MyViewController - New game started
+2021.06.17 13:20:03.535 INFO  View.MyViewController - pokemon changed to Pikachu
+2021.06.17 13:20:03.548 INFO  Model.MyModel - MazeGeneratingServer generates maze{5,5} for client:/127.0.0.1 at port: 5400
+2021.06.17 13:20:03.570 INFO  View.MyViewController - New game started
+2021.06.17 13:20:10.328 INFO  Model.MyModel - maze saved to C:\Users\yuval\Downloads\myMaze.maze
+2021.06.17 13:20:19.669 INFO  Model.MyModel - Player finished maze{5,5}
+2021.06.17 13:20:23.123 INFO  Model.MyModel - saved score for yuval.
+2021.06.17 13:20:30.516 INFO  Model.MyModel - MazeSolvingServer found solution for maze{5,5} requested by client:/127.0.0.1 at port: 5401
+2021.06.17 13:20:30.663 INFO  Model.MyModel - maze loaded from C:\Users\yuval\Downloads\myMaze.maze
+2021.06.17 13:20:35.118 INFO  Model.MyModel - Player finished maze{5,5}
+2021.06.17 13:20:38.027 INFO  Model.MyModel - saved score for Lidor.
+2021.06.17 13:20:45.359 INFO  View.MyViewController - New game started
+2021.06.17 13:20:48.486 INFO  View.MyViewController - Controllers window opened
+2021.06.17 13:20:52.787 INFO  View.MyViewController - pokemon changed to Pikachu
+2021.06.17 13:20:52.794 INFO  Model.MyModel - MazeGeneratingServer generates maze{10,10} for client:/127.0.0.1 at port: 5400
+2021.06.17 13:20:52.824 INFO  View.MyViewController - New game started
+2021.06.17 13:21:01.600 INFO  Model.MyModel - Player finished maze{10,10}
+2021.06.17 13:21:07.597 INFO  View.MyViewController - pokemon changed to Squirtle
+2021.06.17 13:21:07.614 INFO  View.MyViewController - pokemon changed to Squirtle
+2021.06.17 13:21:07.622 INFO  Model.MyModel - MazeGeneratingServer generates maze{20,20} for client:/127.0.0.1 at port: 5400
+2021.06.17 13:21:39.464 INFO  View.MyViewController - Controllers window opened
+2021.06.17 13:21:44.353 DEBUG Model.MyModel - Servers closed
+2021.06.17 13:21:44.353 DEBUG Model.MyModel - GUI closed
+2021.06.17 13:23:25.662 INFO  Model.MyModel - opened GUI
+2021.06.17 13:23:25.668 INFO  Model.MyModel - Playing music
+2021.06.17 13:23:25.668 INFO  Model.MyModel - Maze Generating server started listening for clients at port 5400
+2021.06.17 13:23:25.669 INFO  Model.MyModel - Solving maze server started listening for clients at port 5401
+2021.06.17 13:23:27.245 INFO  Model.MyModel - Stopped the music
+2021.06.17 13:23:30.628 INFO  View.MyViewController - pokemon changed to Pikachu
+2021.06.17 13:23:30.653 INFO  Model.MyModel - MazeGeneratingServer generates maze{5,5} for client:/127.0.0.1 at port: 5400
+2021.06.17 13:23:30.694 INFO  View.MyViewController - New game started
+2021.06.17 13:23:39.916 INFO  View.MyViewController - New game started
+2021.06.17 13:23:48.326 DEBUG Model.MyModel - Servers closed
+2021.06.17 13:23:48.326 DEBUG Model.MyModel - GUI closed
+2021.06.17 14:02:15.515 INFO  Model.MyModel - opened GUI
+2021.06.17 14:02:15.520 INFO  Model.MyModel - Playing music
+2021.06.17 14:02:15.520 INFO  Model.MyModel - Maze Generating server started listening for clients at port 5400
+2021.06.17 14:02:15.520 INFO  Model.MyModel - Solving maze server started listening for clients at port 5401
+2021.06.17 14:02:18.130 DEBUG Model.MyModel - Servers closed
+2021.06.17 14:02:18.130 DEBUG Model.MyModel - GUI closed
+2021.06.17 14:07:24.495 INFO  Model.MyModel - opened GUI
+2021.06.17 14:07:24.499 INFO  Model.MyModel - Playing music
+2021.06.17 14:07:24.499 INFO  Model.MyModel - Maze Generating server started listening for clients at port 5400
+2021.06.17 14:07:24.499 INFO  Model.MyModel - Solving maze server started listening for clients at port 5401
+2021.06.17 14:07:27.705 INFO  View.MyViewController - pokemon changed to Pikachu
+2021.06.17 14:07:27.746 INFO  Model.MyModel - MazeGeneratingServer generates maze{30,30} for client:/127.0.0.1 at port: 5400
+2021.06.17 14:07:27.793 INFO  View.MyViewController - New game started
+2021.06.17 14:07:33.642 INFO  Model.MyModel - MazeSolvingServer found solution for maze{30,30} requested by client:/127.0.0.1 at port: 5401
+2021.06.17 14:07:36.015 INFO  Model.MyModel - MazeSolvingServer found solution for maze{30,30} requested by client:/127.0.0.1 at port: 5401
+2021.06.17 14:07:42.004 DEBUG View.MyViewController - Configuration properties changed.
+2021.06.17 14:07:44.355 INFO  Model.MyModel - MazeSolvingServer found solution for maze{30,30} requested by client:/127.0.0.1 at port: 5401
+2021.06.17 14:07:46.126 INFO  Model.MyModel - Stopped the music
+2021.06.17 14:07:47.987 INFO  Model.MyModel - Started music
+2021.06.17 14:08:03.124 DEBUG Model.MyModel - Servers closed
+2021.06.17 14:08:03.124 DEBUG Model.MyModel - GUI closed
