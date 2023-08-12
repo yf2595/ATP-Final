@@ -1,9 +1,7 @@
-# ATP-Final
-Pokemon Maze game - a client & server game which allows you to move your chosen pokemon a cross randomized maze created by your choosing. 
-This project is a part of advanced topics in programming class which covers all the topics that learned in the class - design patterns, multi-threading, SOLID, Search algorithms - BFS, DFS, UCS , log4J ,TCP ,MVVM and JUnit. 
-The user chooses the maze settings and the server will create the maze and send it by tcp connection to the client side based on MVVM architecture which will display the maze to the user.
-If the user wish to see the maze solution - the server will solve it using user chosen search algorithm - BFS, DFS or UCS.
-During the game there are multiple sounds effects and images related to pokemon theme.
-Every key press, mouse movement and client- server requests are recorded by log4J.
-There is only 1 server working with multi-threading allowing more the 1 player to play.
-all the classes are tested with Junit.
+Embark on an enthralling journey with the "Pokemon Maze Game" – a captivating client-server gaming experience inviting you to guide your chosen Pokemon through intricately randomized mazes of your design. This dynamic project stands as a cornerstone of the Advanced Topics in Programming course, encompassing a comprehensive array of concepts. From the elegant implementation of design patterns and adept handling of multi-threading intricacies to the unwavering commitment to SOLID principles and the mastery of search algorithms such as BFS, DFS, and UCS – this project is a testament to a deep and holistic understanding of programming paradigms.
+
+Encompassing the essence of modern programming, our game is built on a robust foundation that seamlessly integrates technologies such as log4J, TCP communication, and MVVM architecture. The user exercises full autonomy in configuring maze settings, initiating a seamless dialogue between client and server. Employing the MVC-based MVVM architecture, the server crafts mazes that traverse the digital realm, which the client then exquisitely renders for the user's indulgence.
+
+Should curiosity beckon, the server adeptly tackles maze solutions through user-selected search algorithms. Be it the breadth-first search (BFS), the depth-first search (DFS), or the uniform cost search (UCS) – our server's capabilities ensure a gratifying exploration of labyrinthine puzzles.
+
+As the gameplay unfolds, a symphony of sound effects and visuals, steeped in the enchanting realm of Pokemon, accompanies every stride within the maze. Each keystroke, mouse gesture, and interaction between client and server finds its elegant chronicle through log4J, preserving a meticulous record of the game's narrative.
